@@ -1,0 +1,10 @@
+input{
+    background-color: bisque;
+    color:white;
+    
+}
+
+.input:focus{
+    outline:none
+}
+
